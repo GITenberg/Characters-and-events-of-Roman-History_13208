@@ -1,0 +1,34 @@
+_repo: Characters-and-events-of-Roman-History_13208
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ferrero, Frances Lance
+    birthdate: 1865
+    deathdate: 1956
+    gutenberg_agent_id: '4914'
+    url: http://www.gutenberg.org/2009/agents/4914
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ferrero, Guglielmo
+    birthdate: 1871
+    deathdate: 1942
+    gutenberg_agent_id: '4910'
+    url: http://www.gutenberg.org/2009/agents/4910
+    wikipedia: http://en.wikipedia.org/wiki/Guglielmo_Ferrero
+description: ''
+gutenberg_issued: '2004-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13208'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History -- Julio-Claudians, 30 B.C.-68 A.D.'
+- !lcc 'DG'
+title: Characters and events of Roman History
+url: http://www.gutenberg.org/ebooks/13208
