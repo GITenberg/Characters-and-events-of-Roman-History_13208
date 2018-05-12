@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4910
     wikipedia: http://en.wikipedia.org/wiki/Guglielmo_Ferrero
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13208#Characters-and-events-of-Roman-History
 gutenberg_issued: '2004-08-17'
 gutenberg_type: Text
 identifiers:
